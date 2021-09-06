@@ -30,6 +30,6 @@ def add(n):
     cumm_sum = (n * (n + 1)) / 2
     return cumm_sum
 
-print add(1)
-print add(1)(2)
-print add(1)(2)(3)
+print (add(1))
+print (add(1)(2))
+print (add(1)(2)(3))
