@@ -6,5 +6,5 @@ def find_average(array):
     else:
         return sum(array) / len(array)
 
-print find_average([1, 2, 3])
-print find_average([])
+print (find_average([1, 2, 3]))
+print (find_average([]))
